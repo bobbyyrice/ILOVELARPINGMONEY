@@ -1,0 +1,31 @@
+{
+  "name": "ilovelarpingmoney",
+  "version": "1.0.0",
+  "description": "LARP MONEY PRETEND IM RICH BY MAKING FAKE ASS SITES THAT MAKE ME LOOK RICH TO SELL FAKE ONLINE COURSES FOR THOUSANDS OF DOLLAAAAAARRRRRRRSSSSSSSSSSSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyyrice/ILOVELARPINGMONEY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bobbyyrice/ILOVELARPINGMONEY/issues"
+  },
+  "homepage": "https://github.com/bobbyyrice/ILOVELARPINGMONEY#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "sqlite3": "^6.0.1"
+  },
+  "allowScripts": {
+    "sqlite3@6.0.1": true
+  }
+}
